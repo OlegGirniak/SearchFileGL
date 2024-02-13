@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 #include <FileLib.h>
 
 int main()
@@ -10,7 +11,7 @@ int main()
 
     std::cout << "Enter file name: ";
 
-    std::cin >> searchFile;
+    std::getline(std::cin, searchFile);
 
     Lib::StartSearch(root, searchFile);
 
