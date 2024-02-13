@@ -1,0 +1,4 @@
+﻿  FileLib.cpp
+F:\OOPProjects\GLCamp\Library\Library\FileLib.cpp(22,52): warning C4101: 'ex': unreferenced local variable
+F:\OOPProjects\GLCamp\Library\Library\FileLib.cpp(47,34): warning C4101: 'e': unreferenced local variable
+  Library.vcxproj -> F:\OOPProjects\GLCamp\Library\x64\Debug\Library.lib
